@@ -1,7 +1,10 @@
 # NetFlix-GPT
 
--- create react app
--- Configured Tailwind
+- create react app
+- Configured Tailwind
+- Built Header
+- Login Form
+- Sign Up Form
 
 # Features
 
@@ -21,5 +24,9 @@
 Netflix GPt
   -Search Bar
   -Movie Suggestion
+
+  git add .
+git commit -m "nnn"
+git push
 
    
